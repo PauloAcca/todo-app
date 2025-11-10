@@ -4,7 +4,7 @@ import type { Task } from "../types.ts/tasks";
 
 export async function openDB(){
     const db = await open({
-        filename: "./src/lib/tasks.db",
+        filename: process.env.DATABASE_URL || "",
         driver: sqlite3.Database
     })
 
@@ -31,7 +31,7 @@ export const listTasks = async () => {
             completed: !!task.completed,
         }
     });
-    console.log(tasks);
+ 
     return tasks;
 };
 
