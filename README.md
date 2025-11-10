@@ -40,8 +40,8 @@ Open your browser and go to `http://localhost:3000` to see the application.
 
 ## 📸 Functionality screenshots
 
-./public/screenShot-1.jpg
-./public/screenShot-2.jpg
-./public/screenShot-3.jpg
-./public/screenShot-4.jpg
-./public/screenShot-5.jpg
+![Home](./forit-todo/public/screenShot-1.jpg)
+![Create](./forit-todo/public/screenShot-2.jpg)
+![Tasks](./forit-todo/public/screenShot-3.jpg)
+![Edit/Delete](./forit-todo/public/screenShot-4.jpg)
+![Completed](./forit-todo/public/screenShot-5.jpg)

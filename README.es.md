@@ -40,9 +40,8 @@ Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación.
 
 ## Funcionamiento capturas
 
-./public/screenShot-1.jpg
-./public/screenShot-2.jpg
-./public/screenShot-3.jpg
-./public/screenShot-4.jpg
-./public/screenShot-5.jpg
-
+![Inicio](./forit-todo/public/screenShot-1.jpg)
+![Crear](./forit-todo/public/screenShot-2.jpg)
+![Tareas](./forit-todo/public/screenShot-3.jpg)
+![Editar/Eliminar](./forit-todo/public/screenShot-4.jpg)
+![Completadas](./forit-todo/public/screenShot-5.jpg)
